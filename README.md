@@ -19,5 +19,6 @@ docker run -t -p 8888:9000 webgoat
 setup sqlite db by supplying path to local folder
 ```
 
-https://github.com/davevs/dvxte/blob/master/todo/webgoatnet
-https://github.com/jerryhoff/WebGoat.NET/pull/7
+- https://github.com/davevs/dvxte/blob/master/todo/webgoatnet
+- https://github.com/jerryhoff/WebGoat.NET/pull/7
+- http://www.frameloss.org/2012/05/23/installing-webgoat-net-using-apache-on-ubuntu/
